@@ -83,25 +83,31 @@ plantapp/
 
 ## Screenshots
 
-![Welcome Screen](assets/screenshots/ios-photos/onboarding/1.png)
-![Step 1 Screen](assets/screenshots/ios-photos/onboarding/2.png)
-![Step 2 Screen](assets/screenshots/ios-photos/onboarding/3.png)
-![Paywall Screen](assets/screenshots/ios-photos/onboarding/4.png)
+![Welcome Screen](assets/screenshots/ios-photos/onboarding/1.png){: style="height:83px"}
+![Step 1 Screen](assets/screenshots/ios-photos/onboarding/2.png){: style="height:83px"}
+![Step 2 Screen](assets/screenshots/ios-photos/onboarding/3.png){: style="height:83px"}
+![Paywall Screen](assets/screenshots/ios-photos/onboarding/4.png){: style="height:83px"}
 
-![Home](assets/screenshots/ios-photos/home.png) ![Diagnose](assets/screenshots/ios-photos/diagnose/1.png) ![Scan](assets/screenshots/ios-photos/scan/1.png)
+![Home](assets/screenshots/ios-photos/home.png){: style="height:83px"}
+![Diagnose](assets/screenshots/ios-photos/diagnose/1.png){: style="height:83px"}
+![Scan](assets/screenshots/ios-photos/scan/1.png){: style="height:83px"}
 
-
-![Scan Gesture](assets/screenshots/ios-photos/scan/2.png)
-![Gallery Screen](assets/screenshots/ios-photos/gallery/1.png)
-![Gallery Screen Detail](assets/screenshots/ios-photos/gallery/2.png)
-![My Garden](assets/screenshots/ios-photos/my-garden.png)
-![Help](assets/screenshots/ios-photos/help.png)
-![Settings](assets/screenshots/ios-photos/settings.png)
-![Language](assets/screenshots/ios-photos/language-settings.png)
+![Scan Gesture](assets/screenshots/ios-photos/scan/2.png){: style="height:83px"}
+![Gallery Screen](assets/screenshots/ios-photos/gallery/1.png){: style="height:83px"}
+![Gallery Screen Detail](assets/screenshots/ios-photos/gallery/2.png){: style="height:83px"}
+![My Garden](assets/screenshots/ios-photos/my-garden.png){: style="height:83px"}
+![Help](assets/screenshots/ios-photos/help.png){: style="height:83px"}
+![Settings](assets/screenshots/ios-photos/settings.png){: style="height:83px"}
+![Language](assets/screenshots/ios-photos/language-settings.png){: style="height:83px"}
 
 ## Video Demo
 
+<<<<<<< Updated upstream
 [PlantApp Demo Video](assets/screenshots/PlantApp-IOS-GIF.gif)
+=======
+[PlantApp Demo Video](assets/screenshots/PlantApp-IOS-GIF.gif) {: style="height:83px"}
+[PlantApp Demo Video](assets/screenshots/plantApp-android-gif.gif) {: style="height:83px"}
+>>>>>>> Stashed changes
 
 ## Installation
 
