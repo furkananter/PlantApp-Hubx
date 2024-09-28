@@ -88,9 +88,9 @@ plantapp/
 ![Step 2 Screen](assets/screenshots/ios-photos/onboarding/3.png)
 ![Paywall Screen](assets/screenshots/ios-photos/onboarding/4.png)
 
-![Home](assets/screenshots/ios-photos/home.png)
-![Diagnose](assets/screenshots/ios-photos/diagnose/1.png)
-![Scan](assets/screenshots/ios-photos/scan/1.png)
+![Home](assets/screenshots/ios-photos/home.png) ![Diagnose](assets/screenshots/ios-photos/diagnose/1.png) ![Scan](assets/screenshots/ios-photos/scan/1.png)
+
+
 ![Scan Gesture](assets/screenshots/ios-photos/scan/2.png)
 ![Gallery Screen](assets/screenshots/ios-photos/gallery/1.png)
 ![Gallery Screen Detail](assets/screenshots/ios-photos/gallery/2.png)
@@ -101,7 +101,7 @@ plantapp/
 
 ## Video Demo
 
-[![PlantApp Demo Video](assets/video-thumbnail.png)](assets/screenshots/PlantApp-IOS.mp4)
+[PlantApp Demo Video](assets/screenshots/PlantApp-IOS-GIF.gif)
 [PlantApp Demo Video](assets/screenshots/plantApp-android-gif.gif)
 
 ## Installation
