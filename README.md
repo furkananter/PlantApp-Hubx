@@ -83,21 +83,22 @@ plantapp/
 
 ## Screenshots
 
-![Welcome Screen](assets/screenshots/ios/onboarding/1.png)
-![Step 1 Screen](assets/screenshots/ios/onboarding/2.png)
-![Step 2 Screen](assets/screenshots/ios/onboarding/3.png)
-![Paywall Screen](assets/screenshots/ios/onboarding/4.png)
+![Welcome Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios/onboarding/1.png)
+![Step 1 Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios/onboarding/2.png)
+![Step 2 Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios/onboarding/3.png)
+![Paywall Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios/onboarding/4.png)
 
-![Home](assets/screenshots/ios/home.png)
-![Diagnose](assets/screenshots/ios/diagnose/1.png)
-![Scan](assets/screenshots/ios/scan/1.png)
-![Scan Gesture](assets/screenshots/ios/scan/2.png)
-![Gallery Screen](assets/screenshots/ios/gallery/1.png)
-![Gallery Screen Detail](assets/screenshots/ios/gallery/2.png)
-![My Garden](assets/screenshots/ios/my-garden.png)
-![Help](assets/screenshots/ios/help.png)
-![Settings](assets/screenshots/ios/settings.png)
-![Language](assets/screenshots/ios/language-settings.png)
+![Home](https://github.com/furkananter/hubx-task/assets/screenshots/ios/home.png)
+![Diagnose](https://github.com/furkananter/hubx-task/assets/screenshots/ios/diagnose/1.png)
+![Scan](https://github.com/furkananter/hubx-task/assets/screenshots/ios/scan/1.png)
+![Scan Gesture](https://github.com/furkananter/hubx-task/assets/screenshots/ios/scan/2.png)
+![Gallery Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios/gallery/1.png)
+![Gallery Screen Detail](https://github.com/furkananter/hubx-task/assets/screenshots/ios/gallery/2.png)
+![My Garden](https://github.com/furkananter/hubx-task/assets/screenshots/ios/my-garden.png)
+![Help](https://github.com/furkananter/hubx-task/assets/screenshots/ios/help.png)
+![Settings](https://github.com/furkananter/hubx-task/assets/screenshots/ios/settings.png)
+![Language](https://github.com/furkananter/hubx-task/assets/screenshots/ios/language-settings.png)
+
 
 ## Video Demo
 
