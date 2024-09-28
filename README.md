@@ -108,14 +108,13 @@ plantapp/
 <div style="display:flex; justify-content:space-around;">
     <img src="assets/screenshots/ios-photos/gallery/1.png" width="150" alt="Gallery Screen">
     <img src="assets/screenshots/ios-photos/gallery/2.png" width="150" alt="Gallery Screen Detail">
-    <img src="assets/screenshots/ios-photos/my-garden.png" width="150" alt="My Garden">
-    <img src="assets/screenshots/ios-photos/help.png" width="150" alt="Help">
 </div>
 
 ### Settings and Language
 
 <div style="display:flex; justify-content:space-around;">
     <img src="assets/screenshots/ios-photos/settings.png" width="150" alt="Settings">
+    <img src="assets/screenshots/ios-photos/help.png" width="150" alt="Help">
     <img src="assets/screenshots/ios-photos/language-settings.png" width="150" alt="Language">
 </div>
 
