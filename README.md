@@ -96,7 +96,7 @@ plantapp/
 
 <div style="display:flex; justify-content:space-around;">
     <img src="assets/screenshots/ios-photos/home.png" width="150" alt="Home">
-    <img src="assets/screenshots/ios-photos/diagnose/1.png" width="150" alt="Diagnose">
+    <img src="assets/screenshots/ios-photos/diagnose.png" width="150" alt="Diagnose">
     <img src="assets/screenshots/ios-photos/scan/1.png" width="150" alt="Scan">
     <img src="assets/screenshots/ios-photos/scan/2.png" width="150" alt="Scan Gesture">
 </div>
