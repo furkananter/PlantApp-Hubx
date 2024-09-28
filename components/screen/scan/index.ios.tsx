@@ -87,7 +87,7 @@ const ScanScreen: React.FC = () => {
     return { opacity };
   });
 
-  if (permission) {
+  if (!permission) {
     return (
       <SafeAreaView
         style={styles.permissionContainer}
