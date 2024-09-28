@@ -102,7 +102,6 @@ plantapp/
 ## Video Demo
 
 [PlantApp Demo Video](assets/screenshots/PlantApp-IOS-GIF.gif)
-[PlantApp Demo Video](assets/screenshots/plantApp-android-gif.gif)
 
 ## Installation
 
@@ -127,3 +126,5 @@ npx expo start
 4. Scan the QR code with your Expo Go app on your mobile device to run the app.
 
 Enjoy coding!
+
+(assets/screenshots/PlantApp-IOS-GIF.gif)
