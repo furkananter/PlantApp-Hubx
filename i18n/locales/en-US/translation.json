@@ -1,0 +1,155 @@
+{
+  "titles": {
+    "settings": "Settings",
+    "language": "Language",
+    "help": "Help",
+    "profile": "Profile"
+  },
+  "welcome": {
+    "title": "Welcome to ",
+    "title-highlight": "PlantApp",
+    "subtitle": "Identify more than 3000+ plants and 88% accuracy",
+    "button": "Get Started",
+    "tapping": "By tapping next, you agree to PlantID",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy"
+  },
+  "onboarding": {
+    "continue": "Continue",
+    "step1": {
+      "title": "Take photo to ",
+      "highlight": "identify",
+      "title-continue": " the plant!"
+    },
+    "step2": {
+      "title": "Get Plant ",
+      "highlight": "care guides!"
+    }
+  },
+  "paywall": {
+    "title-highlight": "PlantApp ",
+    "premium": "Premium",
+    "subtitle": "Access All Features",
+    "subscribe-button": "Try free for 3 days",
+    "cards": {
+      "1": {
+        "title": "Unlimited",
+        "description": "Plant Identify"
+      },
+      "2": {
+        "title": "Faster",
+        "description": "Process"
+      },
+      "3": {
+        "title": "Detailed",
+        "description": "Plant Care"
+      }
+    },
+    "pricing": {
+      "1-month": {
+        "title": "1 Month",
+        "subtitle": "{{price}}$/month, auto renewable"
+      },
+      "1-year": {
+        "title": "1 Year",
+        "subtitle": "First 3 days free, then ${{price}}/year"
+      }
+    },
+    "info": "After the 3-day free trial period you'll be charged {{price}} per year unless you cancel before the trial expires. Yearly Subscription is Auto-Renewable",
+    "save": "Save {{discount}}%",
+    "restore-button": "Restore",
+    "terms-button": "Terms",
+    "privacy-button": "Privacy"
+  },
+  "home": {
+    "header": {
+      "title": "Hi, plant lover!",
+      "subtitle": "Good Afternoon! ⛅",
+      "search-placeholder": "Search for plants"
+    },
+    "getPremiumBox": {
+      "title": "Free Premium Available",
+      "subtitle": "Tap to upgrade your account!"
+    },
+    "categories": {
+      "title": "Categories"
+    },
+    "questionHeader": "Get Started"
+  },
+  "diagnose": {
+    "header": {
+      "title": "Diagnose",
+      "subtitle": "Pets and Diseases",
+      "search-placeholder": "Search for pets and diseases"
+    },
+    "startDiagnosis": {
+      "title": "Start Diagnosis",
+      "subtitle": "Diagnose plant diseases and learn"
+    },
+    "commonProblems": {
+      "title": "Common Problems",
+      "seeMore": "See More"
+    },
+    "take-a-photo": "Take a Photo"
+  },
+  "scan": {
+    "header": "Gallery",
+    "scan-this": "Scan this Image",
+    "camera-permission": "Camera Permission",
+    "camera-permission-message": "Camera permission is required to use the camera",
+    "gallery-permission": "Gallery Permission",
+    "gallery-permission-message": "Gallery permission is required to use the gallery",
+    "permission-settings": "Permission Settings",
+    "permission-btn": "Give Permission"
+  },
+  "myGarden": {
+    "header": {
+      "title": "My Garden",
+      "subtitle": "You Have No Plants",
+      "add-plant": "Add your first plant and carry out\nyour daily plant care routines.",
+      "add-plant-button": "Add Plant"
+    },
+    "segmentedControl": {
+      "allPlants": "All Plants",
+      "reminders": "Reminders"
+    }
+  },
+  "profile": {
+    "header": {
+      "title": "Profile"
+    },
+    "profile-buttons": {
+      "edit": "Edit Profile",
+      "payment": "Subscription",
+      "notifications": "Notifications",
+      "settings": "Settings",
+      "delete": "Delete Account",
+      "version": "Version {{version}}",
+      "help": "Help",
+      "delete-account": "Delete Account",
+      "language": "Language Settings",
+      "logout": "Logout",
+      "theme": "Theme"
+    }
+  },
+  "bottomBar": {
+    "home": "Home",
+    "scan": "Scan",
+    "profile": "Profile",
+    "diagnose": "Diagnose",
+    "myGarden": "My Garden"
+  },
+  "settings": {
+    "help": {
+      "title": "Help",
+      "description": "If you need help, you can contact us at any time.",
+      "noData": "No data found",
+      "faqs": {
+        "question": "Question",
+        "answer": "Answer"
+      },
+      "contactSupport": "Contact Support"
+    }
+  },
+  "cancel": "Cancel"
+}
