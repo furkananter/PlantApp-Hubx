@@ -83,26 +83,26 @@ plantapp/
 
 ## Screenshots
 
-![Welcome Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/onboarding/1.png)
-![Step 1 Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/onboarding/2.png)
-![Step 2 Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/onboarding/3.png)
-![Paywall Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/onboarding/4.png)
+![Welcome Screen](assets/screenshots/ios-photos/onboarding/1.png)
+![Step 1 Screen](assets/screenshots/ios-photos/onboarding/2.png)
+![Step 2 Screen](assets/screenshots/ios-photos/onboarding/3.png)
+![Paywall Screen](assets/screenshots/ios-photos/onboarding/4.png)
 
-![Home](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/home.png)
-![Diagnose](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/diagnose/1.png)
-![Scan](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/scan/1.png)
-![Scan Gesture](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/scan/2.png)
-![Gallery Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/gallery/1.png)
-![Gallery Screen Detail](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/gallery/2.png)
-![My Garden](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/my-garden.png)
-![Help](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/help.png)
-![Settings](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/settings.png)
-![Language](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/language-settings.png)
+![Home](assets/screenshots/ios-photos/home.png)
+![Diagnose](assets/screenshots/ios-photos/diagnose/1.png)
+![Scan](assets/screenshots/ios-photos/scan/1.png)
+![Scan Gesture](assets/screenshots/ios-photos/scan/2.png)
+![Gallery Screen](assets/screenshots/ios-photos/gallery/1.png)
+![Gallery Screen Detail](assets/screenshots/ios-photos/gallery/2.png)
+![My Garden](assets/screenshots/ios-photos/my-garden.png)
+![Help](assets/screenshots/ios-photos/help.png)
+![Settings](assets/screenshots/ios-photos/settings.png)
+![Language](assets/screenshots/ios-photos/language-settings.png)
 
 ## Video Demo
 
-[![PlantApp Demo Video](assets/video-thumbnail.png)](https://github.com/furkananter/hubx-task/assets/screenshots/PlantApp-IOS.mp4)
-[PlantApp Demo Video](https://github.com/furkananter/hubx-task/assets/screenshots/plantApp-android-gif.gif)
+[![PlantApp Demo Video](assets/video-thumbnail.png)](assets/screenshots/PlantApp-IOS.mp4)
+[PlantApp Demo Video](assets/screenshots/plantApp-android-gif.gif)
 
 ## Installation
 
