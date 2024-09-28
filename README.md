@@ -99,6 +99,8 @@ plantapp/
     <img src="assets/screenshots/ios-photos/diagnose.png" width="150" alt="Diagnose">
     <img src="assets/screenshots/ios-photos/scan/1.png" width="150" alt="Scan">
     <img src="assets/screenshots/ios-photos/scan/2.png" width="150" alt="Scan Gesture">
+    <img src="assets/screenshots/ios-photos/my-garden.png" width="150" alt="My Garden">
+      <img src="assets/screenshots/ios-photos/profile.png" width="150" alt="Profile">
 </div>
 
 ### Additional Features
@@ -126,7 +128,7 @@ plantapp/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/furkananter/hubx-task.git
+git clone https://github.com/furkananter/PlantApp-Hubx.git
 ```
 
 2. Install dependencies:
