@@ -83,22 +83,21 @@ plantapp/
 
 ## Screenshots
 
-![Welcome Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios/onboarding/1.png)
-![Step 1 Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios/onboarding/2.png)
-![Step 2 Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios/onboarding/3.png)
-![Paywall Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios/onboarding/4.png)
+![Welcome Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/onboarding/1.png)
+![Step 1 Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/onboarding/2.png)
+![Step 2 Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/onboarding/3.png)
+![Paywall Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/onboarding/4.png)
 
-![Home](https://github.com/furkananter/hubx-task/assets/screenshots/ios/home.png)
-![Diagnose](https://github.com/furkananter/hubx-task/assets/screenshots/ios/diagnose/1.png)
-![Scan](https://github.com/furkananter/hubx-task/assets/screenshots/ios/scan/1.png)
-![Scan Gesture](https://github.com/furkananter/hubx-task/assets/screenshots/ios/scan/2.png)
-![Gallery Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios/gallery/1.png)
-![Gallery Screen Detail](https://github.com/furkananter/hubx-task/assets/screenshots/ios/gallery/2.png)
-![My Garden](https://github.com/furkananter/hubx-task/assets/screenshots/ios/my-garden.png)
-![Help](https://github.com/furkananter/hubx-task/assets/screenshots/ios/help.png)
-![Settings](https://github.com/furkananter/hubx-task/assets/screenshots/ios/settings.png)
-![Language](https://github.com/furkananter/hubx-task/assets/screenshots/ios/language-settings.png)
-
+![Home](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/home.png)
+![Diagnose](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/diagnose/1.png)
+![Scan](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/scan/1.png)
+![Scan Gesture](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/scan/2.png)
+![Gallery Screen](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/gallery/1.png)
+![Gallery Screen Detail](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/gallery/2.png)
+![My Garden](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/my-garden.png)
+![Help](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/help.png)
+![Settings](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/settings.png)
+![Language](https://github.com/furkananter/hubx-task/assets/screenshots/ios-photos/language-settings.png)
 
 ## Video Demo
 
