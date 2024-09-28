@@ -83,31 +83,43 @@ plantapp/
 
 ## Screenshots
 
-![Welcome Screen](assets/screenshots/ios-photos/onboarding/1.png){: style="height:83px"}
-![Step 1 Screen](assets/screenshots/ios-photos/onboarding/2.png){: style="height:83px"}
-![Step 2 Screen](assets/screenshots/ios-photos/onboarding/3.png){: style="height:83px"}
-![Paywall Screen](assets/screenshots/ios-photos/onboarding/4.png){: style="height:83px"}
+### Onboarding Screens
 
-![Home](assets/screenshots/ios-photos/home.png){: style="height:83px"}
-![Diagnose](assets/screenshots/ios-photos/diagnose/1.png){: style="height:83px"}
-![Scan](assets/screenshots/ios-photos/scan/1.png){: style="height:83px"}
+<div style="display:flex; justify-content:space-around;">
+    <img src="assets/screenshots/ios-photos/onboarding/1.png" width="150" alt="Welcome Screen">
+    <img src="assets/screenshots/ios-photos/onboarding/2.png" width="150" alt="Step 1 Screen">
+    <img src="assets/screenshots/ios-photos/onboarding/3.png" width="150" alt="Step 2 Screen">
+    <img src="assets/screenshots/ios-photos/onboarding/4.png" width="150" alt="Paywall Screen">
+</div>
 
-![Scan Gesture](assets/screenshots/ios-photos/scan/2.png){: style="height:83px"}
-![Gallery Screen](assets/screenshots/ios-photos/gallery/1.png){: style="height:83px"}
-![Gallery Screen Detail](assets/screenshots/ios-photos/gallery/2.png){: style="height:83px"}
-![My Garden](assets/screenshots/ios-photos/my-garden.png){: style="height:83px"}
-![Help](assets/screenshots/ios-photos/help.png){: style="height:83px"}
-![Settings](assets/screenshots/ios-photos/settings.png){: style="height:83px"}
-![Language](assets/screenshots/ios-photos/language-settings.png){: style="height:83px"}
+### Main App Screens
+
+<div style="display:flex; justify-content:space-around;">
+    <img src="assets/screenshots/ios-photos/home.png" width="150" alt="Home">
+    <img src="assets/screenshots/ios-photos/diagnose/1.png" width="150" alt="Diagnose">
+    <img src="assets/screenshots/ios-photos/scan/1.png" width="150" alt="Scan">
+    <img src="assets/screenshots/ios-photos/scan/2.png" width="150" alt="Scan Gesture">
+</div>
+
+### Additional Features
+
+<div style="display:flex; justify-content:space-around;">
+    <img src="assets/screenshots/ios-photos/gallery/1.png" width="150" alt="Gallery Screen">
+    <img src="assets/screenshots/ios-photos/gallery/2.png" width="150" alt="Gallery Screen Detail">
+    <img src="assets/screenshots/ios-photos/my-garden.png" width="150" alt="My Garden">
+    <img src="assets/screenshots/ios-photos/help.png" width="150" alt="Help">
+</div>
+
+### Settings and Language
+
+<div style="display:flex; justify-content:space-around;">
+    <img src="assets/screenshots/ios-photos/settings.png" width="150" alt="Settings">
+    <img src="assets/screenshots/ios-photos/language-settings.png" width="150" alt="Language">
+</div>
 
 ## Video Demo
 
-<<<<<<< Updated upstream
-[PlantApp Demo Video](assets/screenshots/PlantApp-IOS-GIF.gif)
-=======
-[PlantApp Demo Video](assets/screenshots/PlantApp-IOS-GIF.gif) {: style="height:83px"}
-[PlantApp Demo Video](assets/screenshots/plantApp-android-gif.gif) {: style="height:83px"}
->>>>>>> Stashed changes
+![PlantApp Demo](assets/screenshots/PlantApp-IOS-GIF.gif)
 
 ## Installation
 
@@ -132,5 +144,3 @@ npx expo start
 4. Scan the QR code with your Expo Go app on your mobile device to run the app.
 
 Enjoy coding!
-
-(assets/screenshots/PlantApp-IOS-GIF.gif)
