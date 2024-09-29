@@ -5,7 +5,7 @@
 This is a Hubx Task for the React Native Developer position.
 
 
-<div style="max-width: 300px;">
+<div style="max-width: 150px;">
   <img src="https://github.com/user-attachments/assets/2cfeff26-6935-4cfb-84ad-335cbdf43f56" alt="eas-update" style="width: 100%; height: auto;">
 </div>
 
