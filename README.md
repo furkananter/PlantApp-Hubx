@@ -4,6 +4,13 @@
 
 This is a Hubx Task for the React Native Developer position.
 
+
+<div style="max-width: 300px;">
+  <img src="https://github.com/user-attachments/assets/2cfeff26-6935-4cfb-84ad-335cbdf43f56" alt="eas-update" style="width: 100%; height: auto;">
+</div>
+
+Try it on Expo Go: [Preview Link](https://expo.dev/preview/update?message=Fixed&updateRuntimeVersion=1.0.0&createdAt=2024-09-28T16%3A15%3A17.391Z&slug=exp&projectId=049b9e47-a040-4b05-ac83-268a434eeb33&group=0402125e-0654-47eb-a3e6-b6af68278ce1)
+
 ## Technologies and Tools
 
 - **React Native**: Cross-platform mobile app development
